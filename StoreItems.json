@@ -5411,7 +5411,49 @@
       "category": "Skilltrainers",
       "defname": "Neurotrainer_Intellectual",
       "price": 1250
+    },
+    {
+      "abr": "largecommonchest",
+      "category": "Loot boxes",
+      "defname": "LootBoxSilverLarge",
+      "price": 583
+    },
+    {
+      "abr": "largegoldenchest",
+      "category": "Loot boxes",
+      "defname": "LootBoxGoldLarge",
+      "price": 1500
+    },
+    {
+      "abr": "mysteriousredchest",
+      "category": "Production",
+      "defname": "LootBoxBench",
+      "price": 175
+    },
+    {
+      "abr": "pandorasbox",
+      "category": "Loot boxes",
+      "defname": "LootBoxPandora",
+      "price": 667
+    },
+    {
+      "abr": "smallcommonchest",
+      "category": "Loot boxes",
+      "defname": "LootBoxSilverSmall",
+      "price": 133
+    },
+    {
+      "abr": "smallgoldenchest",
+      "category": "Loot boxes",
+      "defname": "LootBoxGoldSmall",
+      "price": 500
+    },
+    {
+      "abr": "treasurechest",
+      "category": "Loot boxes",
+      "defname": "LootBoxTreasure",
+      "price": 200
     }
   ],
-  "total": 902
+  "total": 909
 }
